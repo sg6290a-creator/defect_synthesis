@@ -1,0 +1,11 @@
+albumentations>=1.4
+einops>=0.7
+gradio>=5.0
+matplotlib>=3.7
+numpy>=1.23
+opencv-python-headless>=4.8
+pillow>=10.0
+torch>=2.0
+torchvision>=0.15
+torchsummary>=1.5
+tqdm>=4.65

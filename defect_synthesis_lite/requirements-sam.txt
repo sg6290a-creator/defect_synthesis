@@ -1,0 +1,4 @@
+# Optional dependencies for the Preprocess tab / scripts/sam_make_masks.py.
+# Install one backend that matches your SAM checkpoint workflow.
+ultralytics>=8.3
+segment-anything>=1.0
