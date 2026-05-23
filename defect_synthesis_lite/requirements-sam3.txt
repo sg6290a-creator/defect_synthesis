@@ -1,0 +1,3 @@
+# Optional dependencies for the Preprocess tab / scripts/sam3_make_masks.py.
+# Ultralytics loads sam3.pt directly through its SAM class.
+ultralytics>=8.3
